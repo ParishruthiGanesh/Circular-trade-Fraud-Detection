@@ -9,4 +9,4 @@ This project focuses on leveraging multi-graph representation techniques for fra
 
 ### Results 
 https://github.com/ParishruthiGanesh/Circular-trade-Fraud-Detection/blob/main/results.png
-The figure in the link contains clusters obtained after applying DBScan algorithm on embeddings of undirected graph G^2 . Fruad activity is directly proportaional to the opacity of the colour of plots.
+The figure in the link contains clusters obtained after applying DBScan algorithm on embeddings of undirected graph G^2 . Fruad activity is directly proportional to the opacity of the colour of plots.
